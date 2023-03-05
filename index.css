@@ -29,7 +29,7 @@
 .container2{
     background-color: rgb(201, 5, 5);
     position: absolute;
-    top: 75px;
+    top: 78px;
     width: 100%;
     height: 100px;
 }
@@ -43,7 +43,7 @@
 }
 .local{
     float: right;
-    padding-right: 200px;
+    padding-right: 150px;
     font-size: 1.5em;
     font-weight: bold;
     color: rgb(255, 255, 255);
@@ -72,3 +72,30 @@ input[type=text]{
   .serch-color{
     color: black;
   }
+  .container4{
+    float: left;
+    background-color: rgb(150, 6, 6);
+    position: absolute;
+    top: 178px;
+    font-size: 8px;
+    padding-left: 34px;
+    color: rgb(255, 255, 255);
+    font-weight: 0;
+    width: 100%;
+    
+  }
+  .options{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    
+    
+    
+  }
+.options-left{
+    float: left;
+    margin-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
