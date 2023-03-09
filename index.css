@@ -129,12 +129,12 @@ input[type=text]{
     margin-right: 5px;
 }
 #techRed{
-    color: rgb(196, 10, 10);
+    color: rgb(201, 5, 5);
 }
 .line-1 {
     height: 1px;
     width: 50px;
-    background: rgb(196, 10, 10);
+    background: rgb(201, 5, 5);
   }
   .container10{
     float: left;
@@ -146,7 +146,7 @@ input[type=text]{
     width: 370px;
   }
   .vl{
-    border-left: 2px solid rgb(196, 10, 10);
+    border-left: 2px solid rgb(201, 5, 5);
     height: 300px;
     float: left;
     position: absolute;
