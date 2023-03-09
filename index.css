@@ -16,9 +16,7 @@
     text-decoration: none;
     color: black;
 }
-.containers{
-    position: fixed;
-}
+
 .pad{
     padding: 10px;
 }
@@ -81,7 +79,7 @@ input[type=text]{
     padding-left: 34px;
     color: rgb(255, 255, 255);
     font-weight: 0;
-    width: 100%;
+    width: 97.5%;
     
   }
   .options{
@@ -99,3 +97,104 @@ input[type=text]{
     padding-bottom: 5px;
     
 }
+.container5{
+    float: left;
+    position: absolute;
+    top: 190px;
+    margin: 0;
+    left: 30px;
+}
+.textU{
+    
+    font-weight: 100;
+    border-bottom: 2px solid rgb(255, 0, 0)   
+}
+.container6{
+    float: left;
+    position: absolute;
+    top: 235px;
+    left: 30px;
+}
+.container7{
+    float: left;
+    position: absolute;
+    top: 280px;
+    left: 30px;
+}
+.container8{
+    margin-top: 30px;
+    float: left;
+}
+.clock{
+    margin-right: 5px;
+}
+#techRed{
+    color: rgb(196, 10, 10);
+}
+.line-1 {
+    height: 1px;
+    width: 50px;
+    background: rgb(196, 10, 10);
+  }
+  .container10{
+    float: left;
+    position: relative;
+    top: 30px;
+    left: 20px;
+  }
+  .img{
+    width: 370px;
+  }
+  .vl{
+    border-left: 2px solid rgb(196, 10, 10);
+    height: 300px;
+    float: left;
+    position: absolute;
+    top: 260px;
+    left: 680px;
+  }
+  .container11{
+    float: left;
+    position: absolute;
+    top: 245px;
+    left: 720px;
+  }
+  #watchColor{
+    color: rgb(88, 85, 85);
+  }
+  .container12{
+    float: left;
+    position: absolute;
+    top: 310px;
+    left: 720px;
+  }
+  .texta{
+    float: left;
+    position: absolute;
+    top: 290px;
+    left: 900px;
+  }
+  .container13{
+    float: left;
+    position: absolute;
+    top: 410px;
+    left: 720px;
+  }
+  .textb{
+    float: left;
+    position: absolute;
+    top: 400px;
+    left: 900px;
+  }
+  .container14{
+    float: left;
+    position: absolute;
+    top: 520px;
+    left: 720px;
+  }
+  .textc{
+    float: left;
+    position: absolute;
+    top: 510px;
+    left: 900px;
+  }
